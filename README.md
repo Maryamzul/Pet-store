@@ -1,2 +1,2 @@
-# puzle game
-puzle game Description
+# pet-store
+pet store Description
